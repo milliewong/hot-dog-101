@@ -1,0 +1,7 @@
+// Custom.scss
+//Overrides
+$font-family-sans-serif: 'Nunito', "Noto Color Emoji", sans-serif;
+$font-family-monospace: 'Nunito', monospace;
+
+// Option A: Include all of Bootstrap
+@import "../node_modules/bootstrap/scss/bootstrap";
