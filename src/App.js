@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import Navigation from './Components/Navigation';
-import ImageClick from './Components/ImageClick';
 import './index.css';
 import ThreePanel from './Components/ThreePanel';
 
@@ -42,5 +41,3 @@ class App extends Component {
     );
   }
 }
-
-export default App;
