@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/hot-dog-101/static/css/main.c3f546b2.chunk.css",
+    "main.js": "/hot-dog-101/static/js/main.e74b010c.chunk.js",
+    "main.js.map": "/hot-dog-101/static/js/main.e74b010c.chunk.js.map",
+    "runtime-main.js": "/hot-dog-101/static/js/runtime-main.f122b1bb.js",
+    "runtime-main.js.map": "/hot-dog-101/static/js/runtime-main.f122b1bb.js.map",
+    "static/js/2.86aa6dca.chunk.js": "/hot-dog-101/static/js/2.86aa6dca.chunk.js",
+    "static/js/2.86aa6dca.chunk.js.map": "/hot-dog-101/static/js/2.86aa6dca.chunk.js.map",
+    "index.html": "/hot-dog-101/index.html",
+    "precache-manifest.2ee5ab5058c93a7e501ab23a7d249470.js": "/hot-dog-101/precache-manifest.2ee5ab5058c93a7e501ab23a7d249470.js",
+    "service-worker.js": "/hot-dog-101/service-worker.js",
+    "static/css/main.c3f546b2.chunk.css.map": "/hot-dog-101/static/css/main.c3f546b2.chunk.css.map",
+    "static/media/index.css": "/hot-dog-101/static/media/arrow-1.1edf7a32.svg",
+    "static/media/logo.png": "/hot-dog-101/static/media/logo.16edcd31.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f122b1bb.js",
+    "static/js/2.86aa6dca.chunk.js",
+    "static/css/main.c3f546b2.chunk.css",
+    "static/js/main.e74b010c.chunk.js"
+  ]
+}
